@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="www.notion.so/daljee" target="_blank"><img src="https://img.shields.io/badge/FAF4C0?style=flat&logo=Notion&logoColor=000000"/></a>
+<a href="www.notion.so/daljee" target="_blank"><img src="https://img.shields.io/badge/Notion-FAF4C0?style=flat&logo=Notion&logoColor=000000"/></a><br>
+<hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalguring&show_icons=true&theme=radical)
