@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a><img src="https://img.shields.io/badge/blussm@kakao.com-101010?style=flat&logo=Minutemailer&logoColor=FFFFFF"/></a>
-<a href="https://www.notion.so/daljee/Daljee-s-Notion-21af61dffcee448a8023bf7845a1cd4c" target="_blank"><img src="https://img.shields.io/badge/Notion-FAF4C0?style=flat&logo=Notion&logoColor=000000"/></a>
+<a href="https://devdaljee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FAF4C0?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalguring&show_icons=true&theme=radical)<br>
