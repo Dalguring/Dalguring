@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <a href="https://devdaljee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FAF4C0?style=flat&logo=Tistory&logoColor=000000"/></a>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalguring&show_icons=true&theme=radical)<br>
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dalguring&show_icons=true&theme=highcontrast)<br>
 
